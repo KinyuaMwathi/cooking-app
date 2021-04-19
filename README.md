@@ -1,6 +1,6 @@
 # Cooking App
 
-This is a simple website that converts units used during cooking.
+This is a simple web page that converts units used during cooking.
 
 By _**Charles Mwathi**_
 
