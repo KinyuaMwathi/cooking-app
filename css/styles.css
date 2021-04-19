@@ -1,0 +1,40 @@
+.container01 {
+  background-color: #84EC37;
+  height: 300px;
+}
+
+#heading01 {
+  text-align: center;
+  color: white;
+  padding-top: 130px;
+}
+
+.card {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.card-title {
+  font-size: 30px;
+}
+
+.btn {
+  margin-top: 25px;
+}
+
+#converterResult {
+  display: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.container02 {
+  background-color: #AEBDA3;
+  height: 250px;
+}
+
+#footerText {
+  text-align: center;
+  color: white;
+  padding-top: 118px;
+}
